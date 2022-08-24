@@ -2,6 +2,11 @@
 @font-face {font-family: JetBrains-mono; font-weight: bold; src: url('JetBrainsMono-2.242/JetBrainsMono-Bold.woff2');}
 @font-face {font-family: JetBrains-mono; font-style: italic; src: url('JetBrainsMono-2.242/JetBrainsMono-Italic.woff2');}
 
-h1{
+body{
+    margin: 0;
     font-family: JetBrains-mono;
+}
+
+h1{
+    color: black;
 }
